@@ -12,8 +12,8 @@
          String inputfolderName;
          String outputFolderName;
          if (args.length != 2){
-             inputfolderName = "/Users/tawhidurrahman/Downloads/myFolder ";
-             outputFolderName = "/Users/tawhidurrahman/Downloads/myFolderCopy";
+             inputfolderName = "/Users/chandon/Downloads/myFolder ";
+             outputFolderName = "/Users/chandon/Downloads/myFolderCopy";
          }else {
              inputfolderName = args[0];
              outputFolderName = args[1];
